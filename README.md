@@ -1,6 +1,6 @@
 ﻿# Issue
 
-https://github.com/dotnet/efcore/issues/
+https://github.com/dotnet/efcore/issues/28488
 
 # Reproduction
 
